@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Markó"
+  given-names: "Norbert"
+  orcid: "https://orcid.org/0000-0002-9848-9195"
+- family-names: "Horváth"
+  given-names: "Ernő"
+  orcid: "https://orcid.org/0000-0001-5083-2073"
+- family-names: "Szalay"
+  given-names: "István"
+  orcid: "https://orcid.org/0000-0002-0384-4730"
+- family-names: "Krisztián"
+  given-names: "Enisz"
+title: "pos-prediction"
+version: 1.1.2
+date-released: 2023-05-24
+url: "https://github.com/jkk-research/pos-prediction"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Markó"
+    given-names: "Norbert"
+    orcid: "https://orcid.org/0000-0002-9848-9195"
+  - family-names: "Horváth"
+    given-names: "Ernő"
+    orcid: "https://orcid.org/0000-0001-5083-2073"
+  - family-names: "Szalay"
+    given-names: "István"
+    orcid: "https://orcid.org/0000-0002-0384-4730"
+  - family-names: "Krisztián"
+    given-names: "Enisz"
+  doi: "10.3390/machines11121079"
+  journal: "Machines"
+  title: "Deep Learning-Based Approach for Autonomous Vehicle Localization: Application and Experimental Analysis"
+  year: 2023
+  volume: 11
+  issue: 12
